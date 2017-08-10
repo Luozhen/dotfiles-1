@@ -1,0 +1,11 @@
+pane	base	1	:vim	0	:	0	:/Users/luopo/repos/cpputil/algorithm/fbtree	1	vim	:vim fbtree_perf_test_main.cpp
+pane	base	2	:i18n/pps	0	:	0	:/Users/luopo/myDocuments/dotfiles	1	zsh	:vim src/recall/recaller.cpp
+pane	base	3	:vim	0	:-	0	:/Users/luopo/repos/video_service	1	vim	:vim setup.sh
+vim -
+vim src/core/data/data_retrieve.cpp
+pane	base	4	:vim	1	:*	0	:/Users/luopo/repos/deploy_script/public2	1	zsh	:
+window	base	1	0	:	c03d,364x73,0,0,0
+window	base	2	0	:	c03e,364x73,0,0,1
+window	base	3	0	:-	c03f,364x73,0,0,2
+window	base	4	1	:*	c040,364x73,0,0,3
+state	base	

@@ -1,0 +1,9 @@
+pane	base	1	:zsh	1	:*	0	:/Users/luopo/repos/kepler	1	zsh	:
+pane	base	2	:vim	0	:	0	:/Users/luopo/compiler_related	1	vim	:vim expr.cpp
+pane	base	3	:vim	0	:	0	:/Users/luopo/repos/i18n/pps	1	vim	:vim BUILD
+pane	base	4	:zsh	0	:-	0	:/Users/luopo/repos/video_pps_service/xigua_pps	1	zsh	:
+window	base	1	1	:*	c03d,364x73,0,0,0
+window	base	2	0	:	c03e,364x73,0,0,1
+window	base	3	0	:	c03f,364x73,0,0,2
+window	base	4	0	:-	c040,364x73,0,0,3
+state	base	

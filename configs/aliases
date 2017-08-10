@@ -1,0 +1,20 @@
+#alias progit='proxychains4 git'
+alias p7='/opt/local/bin/php70'
+
+alias vim="vim -O"
+alias gs="git status"
+alias ga="git add"
+alias gc="git commit -m"
+alias gl='git lg1'
+alias gls='git lg1s'
+
+alias ll='ls -lhG'
+alias lla='ls -lhAG'
+alias la='ls -A'
+alias l='ls -CF'
+
+alias cl='clear'
+
+alias pserve="open http://localhost:8000 && python -m SimpleHTTPServer"
+alias ls~='ls -lhtd ~/my* ~/third-src'
+PATH=$PATH:"$HOME/.scripts"

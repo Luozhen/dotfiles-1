@@ -1,0 +1,7 @@
+pane	base	1	:zsh	0	:	0	:/Users/luopo	1	zsh	:
+pane	base	2	:vim	0	:-	0	:/Users/luopo/compiler_related	1	vim	:vim expr.cpp
+pane	base	3	:zsh	1	:*	0	:/Users/luopo/repos/i18n/pps/interface	1	zsh	:
+window	base	1	0	:	c03d,364x73,0,0,0
+window	base	2	0	:-	c03e,364x73,0,0,1
+window	base	3	1	:*	c03f,364x73,0,0,2
+state	base	

@@ -1,0 +1,9 @@
+pane	base	1	:zsh	0	:	0	:/Users/luopo	1	zsh	:
+pane	base	2	:vim	1	:*	0	:/Users/luopo/compiler_related	1	vim	:vim expr.cpp
+pane	base	3	:vim	0	:	0	:/Users/luopo/repos/i18n/pps	1	vim	:vim BUILD
+pane	base	4	:Python	0	:-	0	:/Users/luopo	1	Python	:/opt/local/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python
+window	base	1	0	:	c09d,204x45,0,0,0
+window	base	2	1	:*	c09e,204x45,0,0,1
+window	base	3	0	:	c09f,204x45,0,0,2
+window	base	4	0	:-	c0a0,204x45,0,0,3
+state	base	
